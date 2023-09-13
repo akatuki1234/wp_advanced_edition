@@ -27,8 +27,7 @@ function add_apparence_to_menu()
 {
   register_nav_menus( array(
     'header-nav' => 'header-navigation',
-    'header-nav-menu-collects' => 'header-menu-collects-navgation',
-    'footer-nav' => 'footer-navigation',
+    'header-under' => 'header-under-navigation'
   ));  
 };
 
